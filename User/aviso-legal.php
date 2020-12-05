@@ -195,64 +195,9 @@
                                     <span class="title">Contactanos</span>
                                 </a>
                             </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
 
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link nav-toggle">
-                                    <i class="material-icons"></i>
-                                    <span class="title"></span>
-                                    <span class=""></span>
-                                </a>
-                            </li>
-
+                            <br><br><br><br><br><br><br><br>
+                            <br><br><br><br><br><br><br><br>
                             <br><br><br><br><br><br><br><br>
 
                             </ul>
