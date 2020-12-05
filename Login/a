@@ -1,0 +1,6 @@
+'
+            <script> 
+                alert("Los Datos no Coinciden");
+                window.location = "login.php";
+            </script>
+        ';
